@@ -36,22 +36,20 @@
 
 ## 📊 GitHub Analytics
 
+<!-- Cards below are generated daily by .github/workflows/profile-summary-cards.yml and committed to the repo -->
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Zaiddd1&hide_border=true&theme=github-dark-blue" alt="GitHub streak" />
+  <img width="62%" src="https://raw.githubusercontent.com/Zaiddd1/Zaiddd1/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile details" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zaiddd1&theme=github_dark" alt="Profile summary" />
+  <img width="39%" src="https://raw.githubusercontent.com/Zaiddd1/Zaiddd1/main/profile-summary-card-output/github_dark/3-stats.svg" alt="Stats" />
+  &nbsp;
+  <img width="39%" src="https://raw.githubusercontent.com/Zaiddd1/Zaiddd1/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most used languages" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zaiddd1&theme=github_dark" alt="Stats" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Zaiddd1&theme=github_dark&utcOffset=-5" alt="Productive time" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zaiddd1&theme=github_dark" alt="Repos per language" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zaiddd1&theme=github_dark" alt="Most used languages" />
+  <img width="55%" src="https://streak-stats.demolab.com/?user=Zaiddd1&hide_border=true&theme=github-dark-blue" alt="GitHub streak" />
 </p>
 
 ---
