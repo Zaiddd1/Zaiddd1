@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Zaiddd1">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Systems+Engineering+student;Learning+OOP+with+Java;Comfortable+across+Java%2C+C%2B%2B+and+Python;Building+small+projects+to+learn+by+doing" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Systems+Engineering+student;Learning+OOP+with+Java;Comfortable+across+Java%2C+C%2B%2B+and+Python;Building+small+projects+to+learn+by+doing" alt="Typing SVG" />
   </a>
 </p>
 
@@ -37,20 +37,21 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Zaiddd1&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="Zaiddd1's GitHub stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Zaiddd1&hide_border=true&theme=tokyonight" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=Zaiddd1&hide_border=true&theme=github-dark-blue" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaiddd1&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zaiddd1&theme=github_dark" alt="Profile summary" />
 </p>
 
----
-
-## 🏆 Trophies
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zaiddd1&theme=github_dark" alt="Stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Zaiddd1&theme=github_dark&utcOffset=-5" alt="Productive time" />
+</p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Zaiddd1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub trophies" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zaiddd1&theme=github_dark" alt="Repos per language" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zaiddd1&theme=github_dark" alt="Most used languages" />
 </p>
 
 ---
@@ -63,7 +64,7 @@
 -->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Zaiddd1&label=Profile%20views&color=7AA2F7&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Zaiddd1&label=Profile%20views&color=58A6FF&style=flat" alt="Profile views" />
 </p>
 
 <p align="center"><i>“First, solve the problem. Then, write the code.” — John Johnson</i></p>
