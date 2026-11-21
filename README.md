@@ -12,7 +12,7 @@
 <br>
 
 <a href="https://github.com/Zaiddd1">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=26&amp;duration=2600&amp;pause=900&amp;color=F78CA0&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=vonuse.r+%E2%80%94+Systems+Engineering+Student%3BAI+Agents+%7C+Automation+%7C+Systems+Development%3BPython+%E2%80%A2+JavaScript+%E2%80%A2+Bash%3BBuilding+JARVIS+%E2%80%A2+Learning+%E2%80%A2+Iterating" alt="Banner animado con perfil DevOps">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=26&amp;duration=2600&amp;pause=900&amp;color=F78CA0&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=vonuse.r+%E2%80%94+Systems+Engineering+Student%3BAI+Agents+%7C+Automation+%7C+Systems+Development%3BPython+%E2%80%A2+JavaScript+%E2%80%A2+Bash%3BBuilding+JARVIS+%E2%80%A2+Learning+%E2%80%A2+Iterating" alt="Banner animado con el perfil de vonuse.r">
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=Zaiddd1&style=flat&color=f78ca0&label=profile+views" alt="profile views">
