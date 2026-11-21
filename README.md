@@ -12,7 +12,7 @@
 <br>
 
 <a href="https://github.com/Zaiddd1">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=26&amp;duration=2600&amp;pause=900&amp;color=F78CA0&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Maria+Claudia+%E2%80%94+DevOps+Engineer%3BInfrastructure+as+Code+%7C+CI%2FCD+%7C+Cloud+Native%3BContainers+%E2%80%A2+Kubernetes+%E2%80%A2+Observability%3BCafe+-+Retro+-+Music+-+Vibe+-+Chill+-+Tecnologia" alt="Banner animado con perfil DevOps">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=26&amp;duration=2600&amp;pause=900&amp;color=F78CA0&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=vonuse.r+%E2%80%94+Systems+Engineering+Student%3BAI+Agents+%7C+Automation+%7C+Systems+Development%3BPython+%E2%80%A2+JavaScript+%E2%80%A2+Bash%3BBuilding+JARVIS+%E2%80%A2+Learning+%E2%80%A2+Iterating" alt="Banner animado con perfil DevOps">
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=Zaiddd1&style=flat&color=f78ca0&label=profile+views" alt="profile views">
@@ -106,31 +106,9 @@
 
 <p align="center"><sub><code>signals: devops_skill_radar · language_stack_radar · status: healthy</code></sub></p>
 
----
-
-<!-- SOCIALS -->
-## `$ connect --socials`
-
-<div align="center">
-
-<a href="https://www.instagram.com/">
-  <img src="https://img.shields.io/badge/Instagram-f78ca0?style=for-the-badge&logo=instagram&logoColor=1a1a2e" alt="Instagram">
-</a>&nbsp;&nbsp;
-<a href="https://medium.com/">
-  <img src="https://img.shields.io/badge/Medium-c7a4f5?style=for-the-badge&logo=medium&logoColor=1a1a2e" alt="Medium">
-</a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in//">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>&nbsp;&nbsp;
-<a href="https://github.com/Zaiddd1">
-  <img src="https://img.shields.io/badge/GitHub-f78ca?style=for-the-badge&logo=github&logoColor=1a1a221" alt="GitHub">
-</a>
-
-</div>
-
 <br>
 <br>
 
 <div align="center">
-<sub>Hecho con 💖 y mucho cafe desde k, k · @Zaiddd1</sub>
+<sub>Hecho con 💖 y mucho café desde Arequipa, Perú · @Zaiddd1</sub>
 </div>
