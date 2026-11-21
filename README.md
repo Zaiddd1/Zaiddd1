@@ -19,11 +19,15 @@
   </picture>
 </a>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=Zaiddd1&amp;style=flat&amp;color=7BE0A4&amp;label=Profile+Views">
-  <source media="(prefers-color-scheme: light)" srcset="https://komarev.com/ghpvc/?username=Zaiddd1&amp;style=flat&amp;color=1E9E5A&amp;label=Profile+Views">
-  <img src="https://komarev.com/ghpvc/?username=Zaiddd1&amp;style=flat&amp;color=1E9E5A&amp;label=Profile+Views" alt="Profile Views">
-</picture>
+<br>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=Zaiddd1&amp;style=flat&amp;color=7BE0A4&amp;label=Profile+Views">
+    <source media="(prefers-color-scheme: light)" srcset="https://komarev.com/ghpvc/?username=Zaiddd1&amp;style=flat&amp;color=1E9E5A&amp;label=Profile+Views">
+    <img src="https://komarev.com/ghpvc/?username=Zaiddd1&amp;style=flat&amp;color=1E9E5A&amp;label=Profile+Views" alt="Profile Views">
+  </picture>
+</p>
 
 </div>
 
