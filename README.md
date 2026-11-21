@@ -32,7 +32,11 @@
 ## `$ whoami`
 
 <p align="center">
-  <img src="assets/whoami-citypop.svg" width="960" alt="Terminal con el perfil de vonuse.r, estudiante de Ingeniería de Sistemas">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/whoami-citypop.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/whoami-citypop-light.svg">
+    <img src="assets/whoami-citypop-light.svg" width="960" alt="Terminal con el perfil de vonuse.r, estudiante de Ingeniería de Sistemas">
+  </picture>
 </p>
 
 <br>
